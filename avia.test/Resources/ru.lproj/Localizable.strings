@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  avia.test
+
+  Created by Sergey Urazov on 23/02/2019.
+  Copyright © 2019 Sergey Urazov. All rights reserved.
+*/
+
+"airports.list.title" = "Аэропорты";
+
+"error.title" = "Ошибка";
+
+"error.retry" = "Повторить";
